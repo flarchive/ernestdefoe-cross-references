@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of ernestdefoe/cross-references.** Not for installation: use [Packagist](https://packagist.org/packages/ernestdefoe/cross-references) or the [upstream repository](https://github.com/ernestdefoe/cross-references).
 
-**0** versions archived · Latest: [`3.0.1`](https://github.com/flarchive/ernestdefoe-cross-references/tree/archive/v3.0.1) · License: `MIT` · Flarum: `^2.0`
+**4** versions archived · Latest: [`3.0.1`](https://github.com/flarchive/ernestdefoe-cross-references/tree/archive/v3.0.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2026-05-17 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-cross-references/tree/archive/v2.0.0) |
+| `2.0.1` | 2026-05-19 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-cross-references/tree/archive/v2.0.1) |
+| `3.0.0` | 2026-05-26 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-cross-references/tree/archive/v3.0.0) |
+| `3.0.1` | 2026-09-13 | `^2.0` | [Browse](https://github.com/flarchive/ernestdefoe-cross-references/tree/archive/v3.0.1) |
 
 Catalog entry: [packages/ernestdefoe-cross-references.json](https://github.com/flarchive/archive-index/blob/main/packages/ernestdefoe-cross-references.json)
 
